@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.0.2"
+  version: "0.0.3"
 
 package:
   name: ophyd-service
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/o/ophyd-service/ophyd_service-${{ version }}.tar.gz
-  sha256: 8eb7f080585fe2025d7d70cfd5da5a43f12a422bd958bbb1e3c6e57ac7b6aff4
+  sha256: ce633d53243372c6a53b396d7558a4ef28e4640ca4b7d96428263244d43edef6
 
 build:
   number: 0
